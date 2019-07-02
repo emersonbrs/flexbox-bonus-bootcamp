@@ -1,2 +1,2 @@
-# Módulo Bónus Flexbox
-Layout do Twitter desenvolvido no módulo bónus sobre FlexBox do Bootcamp Rocketseat
+# Módulo Bônus Flexbox
+Arquivos gerados como fundamento de estudo de React com as funcionalidades do CSS no módulo bônus sobre Flexbox | Bootcamp Rocketseat.
