@@ -7,16 +7,27 @@ body,
 
 #app {
   display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  align-content: center; /* Alinha os elementos quando estão em mais de uma linha */
+  /* align-content: center;  /* Alinha os elementos quando estão em mais de uma linha */
 }
 
 .box {
   width: 250px;
   height: 60px;
-  background: #2862f5;
   margin: 5px;
   /* flex é a junção de flex-grow e flex-shrink (flex: 1 0;)*/
+}
+
+.blue {
+  background: #2862f5;
+  order: 1;
+}
+
+.yellow {
+  background: yellow;
+  order: 2;
+}
+
+.green {
+  background: green;
+  order: 0;
 }
